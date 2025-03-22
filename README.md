@@ -25,7 +25,8 @@ Spending Insights & Analytics: Tracks spending trends and provides recommendatio
 Secure Authentication & Data Protection: AWS Cognito, OAuth 2.0, Multi-Factor Authentication (MFA).
 
 
-# Getting Started:
+# Getting Started
+
 Follow these steps to set up the project on your local machine:
 
 Prerequisites
@@ -160,7 +161,8 @@ Deeksha Mandal
 
 Dhruvi Ranwala
 
-References & Documentation
+
+# References & Documentation
 
 AWS Documentation – Amazon Web Services
 
@@ -171,13 +173,13 @@ Expo Docs – Expo Official Docs
 Firebase Cloud Messaging – Firebase Docs
 
 
-# Future Enhancements:
+# Future Enhancements
 
 🔗 Bank & Card Integration for auto-tracking payments.
 
 🌍 Multi-language support for global users.
 
-# License: 
+# License 
 This project is licensed under the MIT License.
 
 # Contact
