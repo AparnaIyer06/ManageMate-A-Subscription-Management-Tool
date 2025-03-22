@@ -29,21 +29,25 @@ Secure Authentication & Data Protection: AWS Cognito, OAuth 2.0, Multi-Factor Au
 
 # Getting Started
 
-Follow these steps to set up the project on your local machine:
-
-Prerequisites
+Follow these steps to set up the project on your local machine.
 
 Ensure you have the following dependencies installed:
 
 Software	Version
+
 Node.js	>=16.0.0
+
 npm / yarn	latest
+
 React Native CLI	latest
+
 Expo CLI	latest
+
 AWS CLI	>=2.0.0
+
 PostgreSQL	>=13.0
 
-Installation Steps:
+# Installation Steps:
 
 1.Clone the repository:
 git clone https://github.com/your-repo/ManageMate.git
@@ -69,11 +73,11 @@ npm install
    
 npm run deploy
 
-6.Run the backend locally:
+7. Run the backend locally:
 
 npm run start
 
-7.Set up the database:
+8. Set up the database:
 
 npm run migrate
 
