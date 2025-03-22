@@ -9,10 +9,12 @@ Subscription Management System
 # Overview
 
 Platform: Mobile application built using React Native.
+
 Purpose: Prevent unexpected renewals, track multiple subscriptions, and optimize expenses.
+
 Target Users: Individuals, households, freelancers, SMBs, enterprises managing multiple subscriptions.
 
-Core Features
+# Core Features
 
 Centralized Subscription Dashboard: A unified platform to manage all active subscriptions.
 
@@ -20,7 +22,7 @@ Automated Renewal Reminders: Notifications before subscription renewals.
 
 Subscription Control: Renew, modify, or cancel subscriptions directly.
 
-Spending Insights & Analytics: Tracks spending trends and provides recommendations.
+AI-powered Spending Insights & Analytics: Tracks spending trends and provides recommendations.
 
 Secure Authentication & Data Protection: AWS Cognito, OAuth 2.0, Multi-Factor Authentication (MFA).
 
